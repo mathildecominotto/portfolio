@@ -427,12 +427,21 @@ h6,
 }
 
 
+
 #hoofdpag-header3-0 .mbr-section-title,
 #hoofdpag-header3-0 .mbr-section-subtitle {
   text-align: center;
 }
 #hoofdpag-header3-0 H3 {
   font-family: 'Raleway', sans-serif;
+}
+#home-header3-0 .mbr-section-title,
+#home-header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#home-header3-0 SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
 }
 #hoofdpag-features7-0 .card-subtitle {
   color: #bcbcbc;
