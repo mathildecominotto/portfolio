@@ -482,6 +482,7 @@ h6,
 }
 
 
+
 #page4-header3-0 .mbr-section-title,
 #page4-header3-0 .mbr-section-subtitle {
   text-align: center;
@@ -501,6 +502,7 @@ h6,
 }
 #blog-features4-0 .card-subtitle {
   color: #bcbcbc;
+  font-family: 'Raleway', sans-serif;
 }
 #blog-features4-0 .iconbox {
   background-color: #ffffff;
@@ -575,4 +577,7 @@ h6,
 }
 #page3-features7-0 H4 {
   font-family: 'Raleway', sans-serif;
+}
+#page3-features7-0 SPAN {
+  color: #232323;
 }
