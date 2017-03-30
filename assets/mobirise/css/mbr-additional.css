@@ -566,6 +566,11 @@ h6,
 
 
 
+
+
+
+
+
 #header3-6 .mbr-section-title,
 #header3-6 .mbr-section-subtitle {
   text-align: center;
@@ -597,6 +602,31 @@ h6,
 }
 #header3-i SPAN {
   font-family: 'Raleway', sans-serif;
+}
+#image1-x DIV {
+  font-family: 'Raleway', sans-serif;
+}
+#image1-v DIV {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 48px;
+}
+#header3-s H3 {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-q SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 48px;
 }
 
 
@@ -684,23 +714,4 @@ h6,
 }
 #header3-p SPAN {
   font-size: 36px;
-}
-
-
-#header3-e .mbr-section-title,
-#header3-e .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-e H3 {
-  font-family: 'Raleway', sans-serif;
-}
-#features7-f .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-f .iconbox {
-  background-color: #c0a375;
-  border-color: #c0a375;
-}
-#features7-f H4 {
-  font-family: 'Raleway', sans-serif;
 }
